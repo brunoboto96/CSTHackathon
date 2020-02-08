@@ -18,7 +18,7 @@ we will try to break it through together.
 Create file share service, for example in between of students, managed via UI, all kinds of platforms are welcome. Think of it like\
 an app that you would like to use with your friends durring working on student projects, relatively small files, simple access.\
 You can send files through http or any other protocol. Thinks to consider: how can you make it secure, will there be private files\
-maybe You want to search for and share gifs through it. _Additional improvements? Think about  Social app connection, Async Upload_
+maybe you want to search for and share gifs through it. _Additional improvements? Think about social app connection, async upload_
 
 ---
 ## Scenario 2
@@ -33,17 +33,18 @@ TODO by someone
 The idea of this scenario is to use Biometric Recognition for basicaly what name says, identifying people.\
 There is plenty implementations of this idea from the doorbell camera able to recognise your roomates to school security system.\
 Use either machine learning models, or for someone less experienced there are plenty easy to implement libraries (python?).\
-We want You to create something using this technology, what You can use it for?\
-_You probably have heard about face recognition, the most famous one, but fave You heard about ear recognition, huh? \
+We want you to create something using this technology, what you can use it for?\
+_You probably have heard about face recognition, the most famous one, but fave you heard about ear recognition, huh? \
 (https://ieeexplore.ieee.org/abstract/document/4401941)_
 
 ---
 ## Scenario 4
 #### Target: Game
-#### Level: Medium
+#### Level: Easy-Medium
 Hackathon is always the good place for creating game with bunch of friends, that is why we would include it as well.\
-We would like you to think about game that other Hackers could play durring event.
-
+Topic of game is open, your own version of Flappy Brid is a good area to pick for starters, for someone more experienced we would recommend\
+thinking about the game that can at the same time learn you to code - Codewars challenges are a good example, consider implementing them\
+in your game. We would like you to think about game that other Hackers could play durring event, try making competition spirit stronger durring Hack! :D
 
 ---
 ## Scenario 5
