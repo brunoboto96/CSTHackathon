@@ -11,22 +11,20 @@ we will try to break it through together.
 *Have Fun! :D*
 
 ---
-## Scenarios
 
 ## Scenario 1
 #### Target: File Share App
 #### Level: Medium
-Create file share service, for example in between of students, managed via UI, all kinds of platforms are welcome.\
-Think of it like an app that you would like to use with your friends durring working on student projects,\
-relatively small files, simple access. You can send files through http or any other protocol. Thinks to think about:\
-how can you make it secure, will there be private files, maybe You want to search for and share gifs through it.\
-_Additional improvements? Think about  Social app connection, Async Upload_
+Create file share service, for example in between of students, managed via UI, all kinds of platforms are welcome. Think of it like\
+an app that you would like to use with your friends durring working on student projects, relatively small files, simple access.\
+You can send files through http or any other protocol. Thinks to consider: how can you make it secure, will there be private files\
+maybe You want to search for and share gifs through it. _Additional improvements? Think about  Social app connection, Async Upload_
 
 ---
 ## Scenario 2
-#### Target: UI, simple Backend
-#### Level: Medium
-TODO by Blazej
+#### Target: XXX
+#### Level: XXX
+TODO by someone
 
 ---
 ## Scenario 3
@@ -44,38 +42,42 @@ _You probably have heard about face recognition, the most famous one, but fave Y
 #### Target: Game
 #### Level: Medium
 Hackathon is always the good place for creating game with bunch of friends, that is why we would include it as well.\
-We would like you to maybe think about game that other Hackers could play durring event to ...TODO...
+We would like you to think about game that other Hackers could play durring event.
+
 
 ---
 ## Scenario 5
-#### Target: Backend, UI
-#### Level: Medium
-Create blog page ... TODO
+#### Target: Home Page
+#### Level: Easy
+Good way to start programming challenge, as well as practice your web dev skills, is to create your own home/blog page.\
+This kind of content is a good opportunity to present your practical skills in a simple and elegant way to your potential feature employee.\
+There is a various number of options you can pick from when looking for idea for topic of your page. It can be more tech related\
+_(it would be nice to include then some way of formatting code on site for specific language)_, or maybe you want to create online art gallery\
+_(consider building your own slide show on page)_, every idea is welcome! Consider storying content in either database or external files so you\
+can edit it on demand without digging into code.
 
 ---
 ## Scenario 6
-#### Target: UI, simple Backend
-#### Level: Hard
-TODO by Blazej
+#### Target: XXX
+#### Level: XXX
+TODO by someone
 
 ---
 ## Scenario 7
-#### Target: UI
-#### Level: Easy
-TODO by Blazej or Me
+#### Target: XXX
+#### Level: XXX
+TODO by someone
 
 ---
 ## Scenario 8
-#### Target: UI
-#### Level: Medium
-TODO by Blazej
+#### Target: XXX
+#### Level: XXX
+TODO by someone
 
 ---
 ## Scenario 9
 #### Target: Game Map Generator & Visualisation
 #### Level: Easy-Medium
-Do you maybe play D&D? What about map generator based on some configuration file?\
-The idea of this scenario is to create game map generator that can be based on an algorithm or on an random seed :D\
-It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think
-about this scenario as about logical challenge.\
-_Maybe you can create something with fractals, genetic algorithm_
+Do you maybe play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator\
+that can be based on an algorithm or on an random seed :D It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you\
+think about this scenario as about logical challenge. _Maybe you can create something with fractals, genetic algorithm_
