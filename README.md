@@ -87,11 +87,22 @@ As an extension, you can implement a CMS to easily edit content in the future.
 
 ## Scenario 6
 
-#### Target: Real time monitoring system
+#### Target: Real-time monitoring system
 
-#### Level: Easy-Medium-Hard hehe
+#### Level: Easy-Medium-Hard
 
-TODO by someone
+Ability to create real-time monitoring systems is desired in almost every industry. Well optimized, fast and performant systems can bring fortune to the company. This task is open to any system that collects data from some sort of emitter and displays it to the user in meaningful way.
+
+Examples:
+
+Easy
+A desktop application that logs all websites visited by current PC user and displays diagrams/tabular data.
+
+Medium
+A mobile app that uses one of device sensors (gps, accelerometer, barometer, gyroscope, magnetometer, pedometer etc.) and transmits it to a database. Within the same, or with another mobile/web application display data to end user. Simple fitness app is an example of this difficulty level.
+
+Hard
+Same as easy and medium, but this time system implements communication between external device (smartwatches, arduino etc) which involves using some 3rd-party sdk.
 
 ---
 
