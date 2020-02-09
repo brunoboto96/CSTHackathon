@@ -15,7 +15,7 @@ _Have Fun! :smile:_
 
 ---
 
-## Scenario :one:
+## Scenario 1
 
 #### Target: File Share App
 
@@ -28,7 +28,7 @@ maybe you want to search for and share gifs through it. _Additional improvements
 
 ---
 
-## Scenario :two:
+## Scenario 2
 
 #### Target: Coronavirus visualisation
 
@@ -45,7 +45,7 @@ _Example:_
 
 ---
 
-## Scenario :three:
+## Scenario 3
 
 #### Target: Biometric Recognition
 
@@ -57,7 +57,7 @@ _You probably have heard about face recognition, the most famous one, but have y
 
 ---
 
-## Scenario :four:
+## Scenario 4
 
 #### Target: Game
 
@@ -69,7 +69,7 @@ We would like you to think about the game that other Hackers could play during e
 
 ---
 
-## Scenario :five:
+## Scenario 5
 
 #### Target: Home Page
 
