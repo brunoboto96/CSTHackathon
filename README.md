@@ -36,11 +36,11 @@ maybe you want to search for and share gifs through it. _Additional improvements
 
 The world is grappling with 2019-nCoV, the new Coronavirus spreading rapidly from the epicentre of the outbreak in Wuhan, the capital of China’s Hubei Province. That virus spreads via human-to-human transmission, it is essential to understand transmission patterns and rates to establish emergency response plans. Your goal is to create a data visualisation, which shows the spread of the disease worldwide, the infection speed or overview over cases. It can be achieved via a web page as well as desktop apps, absolutely free technique, as long as your solution is data-driven.
 
-_Data:_
-[ncov-data github](https://github.com/CryptoKass/ncov-data)/
+_Data:_  
+[ncov-data github](https://github.com/CryptoKass/ncov-data)  
 [reddit datasets list](https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/)
 
-_Example:_
+_Example:_  
 [carto.com/blog](https://carto.com/blog/visualizing-emergency-data-coronavirus/)
 
 ---
@@ -53,7 +53,7 @@ _Example:_
 
 The idea of this scenario is to use Biometric Recognition for basically what name says, identifying people. There are plenty of implementations of this idea from the doorbell camera able to recognise your roommates to a school security system. Use either machine learning models, or for someone less experienced there are plenty easy to implement python libraries. We want you to create something using this technology, what you can use it for?
 
-_You probably have heard about face recognition, the most famous one, but have you heard about ear recognition, huh?
+_You probably have heard about face recognition, the most famous one, but have you heard about ear recognition, huh?  
 [ieee abstract document](https://ieeexplore.ieee.org/abstract/document/4401941)_
 
 ---
@@ -79,7 +79,7 @@ We would like you to think about the game that other Hackers could play during e
 A good way to start programming challenge, as well as practice your web development skills is to create your own home/blog page. This kind of content is a good opportunity to present your practical skills in a simple and elegant way to your potential future employer. A website can be used as your digital CV. Try to express yourself and include your digital portfolio (or a faked one if you don't have/don't want to use your work).
 As an extension, you can implement a CMS to easily edit content in the future.
 
-[portfolio examples](https://www.mockplus.com/blog/post/web-developer-portfolio)
+[portfolio examples](https://www.mockplus.com/blog/post/web-developer-portfolio)  
 [dribble - awesome web designs browser](https://dribbble.com/search/portfolio%20website)
 
 ---
