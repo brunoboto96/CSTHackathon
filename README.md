@@ -1,6 +1,6 @@
-<h1 class="center">CST Hackathon </h3>
-<h4 class="center">University of Bedfordshire</h3>
-<h4 class="center">22 - 23 February 2020</h3>
+<h1 align="center">CST Hackathon </h3>
+<h4 align="center">University of Bedfordshire</h3>
+<h4 align="center">22 - 23 February 2020</h3>
 
 ---
 
@@ -122,9 +122,3 @@ TODO by someone
 Do you maybe play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator
 that can be based on an algorithm or on an random seed :D It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you
 think about this scenario as about logical challenge. _Maybe you can create something with fractals, genetic algorithm_
-
-<style>
-.center {
-  text-align: center;
-}
-</style>
