@@ -1,6 +1,6 @@
-<h1 align="center">CST Hackathon </h3>
-<h4 align="center">University of Bedfordshire</h3>
-<h4 align="center">22 - 23 February 2020</h3>
+<h2 align="center">CST Hackathon </h2>
+<h4 align="center">University of Bedfordshire</h4>
+<h4 align="center">22 - 23 February 2020</h4>
 
 ---
 
