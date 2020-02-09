@@ -17,7 +17,7 @@ If you feel that you don't know how to start or you struggle with something for 
 
 ## Scenario 1
 
-#### Target: File Share App
+#### Target: File Share App :inbox_tray:
 
 #### Level: Medium
 
@@ -34,7 +34,7 @@ Improvements suggestions:
 
 ## Scenario 2
 
-#### Target: Coronavirus visualisation
+#### Target: Coronavirus visualisation :chart_with_upwards_trend:
 
 #### Level: Hard
 
@@ -51,7 +51,7 @@ _Example:_
 
 ## Scenario 3
 
-#### Target: Biometric Recognition
+#### Target: Biometric Recognition :detective:
 
 #### Level: Medium-Hard
 
@@ -64,7 +64,7 @@ _You probably have heard about face recognition, the most famous one, but have y
 
 ## Scenario 4
 
-#### Target: Game
+#### Target: Game :video_game:
 
 #### Level: Easy-Medium
 
@@ -76,11 +76,11 @@ We would like you to think about the game that other Hackers could play during e
 
 ## Scenario 5
 
-#### Target: Home Page
+#### Target: Personal Page :desktop_computer:
 
 #### Level: Easy
 
-A good way to start programming challenge, as well as practice your web development skills is to create your own home/blog page. This kind of content is a good opportunity to present your practical skills in a simple and elegant way to your potential future employer. A website can be used as your digital CV. Try to express yourself and include your digital portfolio (or a faked one if you don't have/don't want to use your work).
+A good way to start programming challenge, as well as practice your web development skills is to create your own portfolio/blog page. This kind of content is a good opportunity to present your practical skills in a simple and elegant way to your potential future employer. A website can be used as your digital CV. Try to express yourself and include your digital portfolio (or a faked one if you don't have/don't want to use your work).
 As an extension, you can implement a CMS to easily edit content in the future.
 
 [portfolio examples](https://www.mockplus.com/blog/post/web-developer-portfolio)  
@@ -90,7 +90,7 @@ As an extension, you can implement a CMS to easily edit content in the future.
 
 ## Scenario 6
 
-#### Target: Real-time monitoring system
+#### Target: Real-time monitoring system :stopwatch:
 
 #### Level: Easy-Medium-Hard
 
@@ -131,7 +131,7 @@ Scenario incoming - stay tuned!
 
 ## Scenario 9
 
-#### Target: Game Map Generator & Visualisation
+#### Target: Game Map Generator & Visualisation :world_map:
 
 #### Level: Easy-Medium
 
