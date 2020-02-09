@@ -6,13 +6,12 @@
 
 ## Few words from us :mega:
 
-Our idea was to give you scenarios from wide range of software development career paths.
+Our idea was to give you scenarios from wide range of software development career paths.  
 Feel free to interpret them openly, the goal is to create something cool and scenarios are more of the guideline.
 
-If you feel that you don't know how to start or you struggle with something for too long feel free to give us a call,  
-we will try to break it through together.
+If you feel that you don't know how to start or you struggle with something for too long feel free to give us a call, we will try to break it through together.
 
-_Have Fun! :smile:_
+**_Have Fun!_**:smile:
 
 ---
 
@@ -22,10 +21,14 @@ _Have Fun! :smile:_
 
 #### Level: Medium
 
-Create file share service, for example in between of students, managed via UI, all kinds of platforms are welcome. Think of it like
-an app that you would like to use with your friends durring working on student projects, relatively small files, simple access.
-You can send files through http or any other protocol. Thinks to consider: how can you make it secure, will there be private files
-maybe you want to search for and share gifs through it. _Additional improvements? Think about social app connection, async upload_
+Create file share service, for example, in-between students, managed via UI, all kinds of platforms are welcome. Think of it like an app that you would like to use with your friends during working on student projects, a shared file repository, that authenticated users can view or upload to. You can send files through HTTP or any other protocol.
+
+Improvements suggestions:
+
+- make your solution secure
+- implement public/private files mechanism
+- add social functionality (eg. local chat, comments)
+- handle large files with async upload
 
 ---
 
@@ -132,5 +135,6 @@ Scenario incoming - stay tuned!
 
 #### Level: Easy-Medium
 
-Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed :smile: It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.  
- _Maybe something with fractals, genetic algorithm?_
+Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed :smile: It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
+
+_Maybe something with fractals, genetic algorithm?_
