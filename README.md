@@ -95,13 +95,13 @@ Ability to create real-time monitoring systems is desired in almost every indust
 
 Examples:
 
-_*Easy*_  
+**_Easy_**  
 A desktop application that logs all websites visited by current PC user and displays diagrams/tabular data.
 
-_*Medium*_  
+**_Medium_**  
 A mobile app that uses one of the device sensors (GPS, accelerometer, barometer, gyroscope, magnetometer, pedometer etc.) and transmits it to a database. Within the same, or with another mobile/web application display data to end-user. The simple fitness app is an example of this difficulty level.
 
-_*Hard*_  
+**_Hard_**  
 Same as easy and medium, but this time system implements communication between an external device (smartwatches, Arduino etc) which involves using some 3rd-party SDK.
 
 ---
