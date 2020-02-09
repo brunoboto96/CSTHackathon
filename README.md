@@ -91,18 +91,18 @@ As an extension, you can implement a CMS to easily edit content in the future.
 
 #### Level: Easy-Medium-Hard
 
-Ability to create real-time monitoring systems is desired in almost every industry. Well optimized, fast and performant systems can bring fortune to the company. This task is open to any system that collects data from some sort of emitter and displays it to the user in meaningful way.
+Ability to create real-time monitoring systems is desired in almost every industry. Well optimized, fast and performant systems can bring fortune to the company. This task is open to any system that collects data from some sort of emitter and displays it to the user in a meaningful way.
 
 Examples:
 
-Easy
+_*Easy*_  
 A desktop application that logs all websites visited by current PC user and displays diagrams/tabular data.
 
-Medium
-A mobile app that uses one of device sensors (gps, accelerometer, barometer, gyroscope, magnetometer, pedometer etc.) and transmits it to a database. Within the same, or with another mobile/web application display data to end user. Simple fitness app is an example of this difficulty level.
+_*Medium*_  
+A mobile app that uses one of the device sensors (GPS, accelerometer, barometer, gyroscope, magnetometer, pedometer etc.) and transmits it to a database. Within the same, or with another mobile/web application display data to end-user. The simple fitness app is an example of this difficulty level.
 
-Hard
-Same as easy and medium, but this time system implements communication between external device (smartwatches, arduino etc) which involves using some 3rd-party sdk.
+_*Hard*_  
+Same as easy and medium, but this time system implements communication between an external device (smartwatches, Arduino etc) which involves using some 3rd-party SDK.
 
 ---
 
@@ -112,7 +112,7 @@ Same as easy and medium, but this time system implements communication between e
 
 #### Level: XXX
 
-TODO by someone
+Scenario incoming - stay tuned!
 
 ---
 
@@ -122,7 +122,7 @@ TODO by someone
 
 #### Level: XXX
 
-TODO by someone
+Scenario incoming - stay tuned!
 
 ---
 
@@ -132,6 +132,5 @@ TODO by someone
 
 #### Level: Easy-Medium
 
-Do you maybe play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator
-that can be based on an algorithm or on an random seed :D It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you
-think about this scenario as about logical challenge. _Maybe you can create something with fractals, genetic algorithm_
+Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed :smile: It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.  
+ _Maybe something with fractals, genetic algorithm?_
