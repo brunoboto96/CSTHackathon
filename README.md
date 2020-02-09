@@ -1,4 +1,4 @@
-<h2 align="center">CST Hackathon </h2>
+<h1 align="center">CST Hackathon </h1>
 <h4 align="center">University of Bedfordshire</h4>
 <h4 align="center">22 - 23 February 2020</h4>
 
@@ -37,7 +37,7 @@ maybe you want to search for and share gifs through it. _Additional improvements
 The world is grappling with 2019-nCoV, the new Coronavirus spreading rapidly from the epicentre of the outbreak in Wuhan, the capital of China’s Hubei Province. That virus spreads via human-to-human transmission, it is essential to understand transmission patterns and rates to establish emergency response plans. Your goal is to create a data visualisation, which shows the spread of the disease worldwide, the infection speed or overview over cases. It can be achieved via a web page as well as desktop apps, absolutely free technique, as long as your solution is data-driven.
 
 _Data:_
-[ncov-data github](https://github.com/CryptoKass/ncov-data)
+[ncov-data github](https://github.com/CryptoKass/ncov-data)/
 [reddit datasets list](https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/)
 
 _Example:_
@@ -53,7 +53,8 @@ _Example:_
 
 The idea of this scenario is to use Biometric Recognition for basically what name says, identifying people. There are plenty of implementations of this idea from the doorbell camera able to recognise your roommates to a school security system. Use either machine learning models, or for someone less experienced there are plenty easy to implement python libraries. We want you to create something using this technology, what you can use it for?
 
-_You probably have heard about face recognition, the most famous one, but have you heard about ear recognition, huh? [ieee abstract document](https://ieeexplore.ieee.org/abstract/document/4401941)_
+_You probably have heard about face recognition, the most famous one, but have you heard about ear recognition, huh?
+[ieee abstract document](https://ieeexplore.ieee.org/abstract/document/4401941)_
 
 ---
 
