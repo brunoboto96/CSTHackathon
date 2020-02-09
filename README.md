@@ -9,7 +9,8 @@
 Our idea was to give you scenarios from wide range of software development career paths.
 Feel free to interpret them openly, the goal is to create something cool and scenarios are more of the guideline.
 
-If you feel that you don't know how to start or you struggle with something for too long feel free to give us a call, we will try to break it through together.
+If you feel that you don't know how to start or you struggle with something for too long feel free to give us a call,  
+we will try to break it through together.
 
 _Have Fun! :smile:_
 
