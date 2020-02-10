@@ -138,7 +138,7 @@ SUGGESTION: Try to look up the name of the article on google and grab the first 
 
 #### Level: Easy-Medium
 
-Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed :smile: It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
+Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed. It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
 
 _Maybe something with fractals, genetic algorithm?_
 
