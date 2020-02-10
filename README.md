@@ -111,21 +111,24 @@ Same as easy and medium, but this time system implements communication between a
 
 ## Scenario 7
 
-#### Target: XXX
+#### Target: Trade platform :shirt:
 
-#### Level: XXX
+#### Level: Easy
 
-Scenario incoming - stay tuned!
+A lot of people throw their belongings on the road when most of the times those items didn't suffer any damage and they could still be used by somebody else in need.
+Your task is to design an app where those items can be listed and picked up by the ones in need free of charge instead of being thrown at the edge of the road. The app should support user registration, login, the items should be listed in categories and the system should provide a search field with filters for location and item category.
 
 ---
 
 ## Scenario 8
 
-#### Target: XXX
+#### Target: Fake articles :hankey:
 
-#### Level: XXX
+#### Level: Medium
 
-Scenario incoming - stay tuned!
+Fake news websites gained so much popularity lately that is challenging to tell which articles are fake or not. The young ones don't fall that easily into that pit, but the older ones often take the bite and believe all they find over the internet.
+Your task is to design a neuronal network which can determine whether an article is fraudulent or not by the passing the link of the article as input.
+SUGGESTION: Try to look up the name of the article on google and grab the first page of results.
 
 ---
 
@@ -135,6 +138,18 @@ Scenario incoming - stay tuned!
 
 #### Level: Easy-Medium
 
-Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed :smile: It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
+Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed. It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
 
 _Maybe something with fractals, genetic algorithm?_
+
+---
+
+## Scenario 10
+
+#### Target: E2ee Chat :lock:
+
+#### Level: Hard
+
+I'd say is fair to assume that our privacy is the most important thing that we got, even tho not so many of us realize how dangerous the internet can be. More and more often you can see people intercepting the wireless traffic in populated areas such as airports, coffee shops or bars with the aid of small computers such as raspberry pi's. Most of the times the channel that you use to communicate with your beloved ones, share pictures and videos are not that secure as you would probably think.
+Your task is to design a safe way of communication where parties can interact per to per or in groups in real-time and also be implementing end-to-end encryption.
+Besides that, they also have to be able to share pictures, videos or any other files.
