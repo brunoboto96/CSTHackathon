@@ -6,7 +6,7 @@
 
 ## Few words from us :mega:
 
-Our idea was to give you scenarios from wide range of software development career paths.  
+Our idea was to give you scenarios from a wide range of software development career paths.  
 Feel free to interpret them openly, the goal is to create something cool and scenarios are more of the guideline.
 
 If you feel that you don't know how to start or you struggle with something for too long feel free to give us a call, we will try to break it through together.
@@ -138,7 +138,7 @@ SUGGESTION: Try to look up the name of the article on google and grab the first 
 
 #### Level: Easy-Medium
 
-Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create game map generator that can be based on an algorithm or on a random seed. It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
+Maybe do you play D&D? What about map generator based on some configuration file? The idea of this scenario is to create a game map generator that can be based on an algorithm or on a random seed. It would be cool to somehow visualise generated map 2D, 3D, 4D? We rather make you think about this scenario as about logical challenge.
 
 _Maybe something with fractals, genetic algorithm?_
 
@@ -150,6 +150,6 @@ _Maybe something with fractals, genetic algorithm?_
 
 #### Level: Hard
 
-I'd say is fair to assume that our privacy is the most important thing that we got, even tho not so many of us realize how dangerous the internet can be. More and more often you can see people intercepting the wireless traffic in populated areas such as airports, coffee shops or bars with the aid of small computers such as raspberry pi's. Most of the times the channel that you use to communicate with your beloved ones, share pictures and videos are not that secure as you would probably think.
+I'd say is fair to assume that our privacy is the most important thing that we got, even tho not so many of us realize how dangerous the internet can be. More and more often you can see people intercepting the wireless traffic in populated areas such as airports, coffee shops or bars with the aid of small computers such as raspberry pi. Most of the times the channel that you use to communicate with your beloved ones, share pictures and videos are not that secure as you would probably think.
 Your task is to design a safe way of communication where parties can interact per to per or in groups in real-time and also be implementing end-to-end encryption.
 Besides that, they also have to be able to share pictures, videos or any other files.
