@@ -76,15 +76,12 @@ We would like you to think about the game that other Hackers could play during e
 
 ## Scenario 5
 
-#### Target: Personal Page :desktop_computer:
+#### Target: Smart-mirror home page :desktop_computer:
 
-#### Level: Easy
+#### Level: Easy (targeted for Hackers who just starting their journey)
 
-A good way to start programming challenge, as well as practice your web development skills is to create your own portfolio/blog page. This kind of content is a good opportunity to present your practical skills in a simple and elegant way to your potential future employer. A website can be used as your digital CV. Try to express yourself and include your digital portfolio (or a faked one if you don't have/don't want to use your work).
+Smart mirror becomes recently very popular way to make your home "smart", cool part about them is that they are actually not that hard to make on of them by yourself, in this scenario we would focus on software part of it, designing and developing home page for your smart mirror. It would be good to include weather forecast data or you can think about any other information or feature that would be useful for you, (simple tic-tac-toe just to make your everyday teeth brushing a little bit more funny is also a thing).
 As an extension, you can implement a CMS to easily edit content in the future.
-
-[portfolio examples](https://www.mockplus.com/blog/post/web-developer-portfolio)  
-[dribble - awesome web designs browser](https://dribbble.com/search/portfolio%20website)
 
 ---
 
