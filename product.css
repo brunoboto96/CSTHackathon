@@ -106,7 +106,7 @@
 .card-content {
   background-color: deeppink;
   position: relative;
-  height: 200px;
+  min-height: 200px;
 }
 
 .card-bottom-panel {
@@ -118,6 +118,7 @@
   left: 0;
   right: 0;
   bottom: 0;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
 .card-bottom-panel img {
@@ -129,34 +130,84 @@
   flex: 1;
   display: flex;
   flex-direction: row;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+@media screen and (max-width: 1500px) and (min-width: 768px) {
+  .schedule-container {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .schedule-container {
+    flex-direction: column;
+  }
 }
 
 .schedule-day-container {
   flex-basis: 50%;
   min-width: 250px;
-  background-color: orangered;
 }
 
 .schedule-item {
   height: 30px;
   width: 100%;
+  padding-left: 10px;
+  padding-right: 5px;
+  text-align: left;
+  color: #343a40;
+  border-bottom: 1px solid rgb(172, 172, 172);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.workshop-container {
+.schedule-header {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  background-color: #343a40;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin-bottom: 5px;
+}
+
+.workshops-container {
   position: relative;
   display: flex;
   flex-direction: column;
 }
 
-.workshop-item {
-  height: 60px;
-  width: 90%;
+.workshop-container {
+  padding: 16px;
+  width: 100%;
   margin: 0 auto;
   display: flex;
-  align-items: center;
-  justify-content: center;
   background: white;
   margin-bottom: 10px;
   border-radius: 20px;
   color: #343a40;
+}
+
+.workshop-item {
+  flex: 1;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+.time {
+  /* color: #dc3545; */
+  color: grey;
+  padding-right: 5px;
+}
+
+.date {
+  width: 70px;
+  min-width: 70px;
 }
