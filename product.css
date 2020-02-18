@@ -7,13 +7,13 @@
  */
 
 .site-header {
-  background-color: rgba(0, 0, 0, .85);
+  background-color: rgba(0, 0, 0, 0.85);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
 .site-header a {
   color: #999;
-  transition: ease-in-out color .15s;
+  transition: ease-in-out color 0.15s;
 }
 .site-header a:hover {
   color: #fff;
@@ -43,7 +43,7 @@
   bottom: 10%;
   left: 10px;
   content: "";
-  background-color: rgba(255, 255, 255, .1);
+  background-color: rgba(255, 255, 255, 0.1);
   border-radius: 5px;
 }
 
@@ -55,15 +55,20 @@
   background-color: #e5e5e5;
 }
 
-
 /*
  * Extra utilities
  */
 
-.border-top { border-top: 1px solid #e5e5e5; }
-.border-bottom { border-bottom: 1px solid #e5e5e5; }
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
 
-.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
 
 .flex-equal > * {
   -ms-flex: 1;
@@ -78,4 +83,60 @@
   }
 }
 
-.overflow-hidden { overflow: hidden; }
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/*
+ * Blaze
+ */
+
+.card-container {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  position: relative;
+  padding-bottom: 150px;
+  margin-bottom: 20px;
+
+  @media screen and (min-width: 768px) {
+    margin-bottom: 0;
+    border-radius: 5px;
+  }
+}
+
+.card-content {
+  background-color: deeppink;
+  position: relative;
+  height: 200px;
+}
+
+.card-bottom-panel {
+  position: absolute;
+  width: 340px;
+  height: 150px;
+  border-radius: 21px 21px 0 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.card-bottom-panel img {
+  padding-top: 10px;
+  width: 70%;
+}
+
+.schedule-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+.schedule-day-container {
+  width: 150px;
+  background-color: orangered;
+}
+
+.schedule-item {
+  height: 30px;
+  width: 100%;
+}
