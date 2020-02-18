@@ -1,3 +1,7 @@
+html body {
+  min-width: 370px;
+}
+
 .container {
   max-width: 960px;
 }
