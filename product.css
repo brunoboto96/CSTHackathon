@@ -96,8 +96,10 @@
   position: relative;
   padding-bottom: 150px;
   margin-bottom: 20px;
+}
 
-  @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
+  .card-container {
     margin-bottom: 0;
     border-radius: 5px;
   }
@@ -189,25 +191,53 @@
   margin: 0 auto;
   display: flex;
   background: white;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   border-radius: 20px;
   color: #343a40;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
 .workshop-item {
   flex: 1;
-  /* display: flex;
+  display: flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
+}
+
+.workshop-name {
+  color: #17a2b8;
+  font-weight: 700;
 }
 
 .time {
-  /* color: #dc3545; */
-  color: grey;
+  color: #17a2b8;
   padding-right: 5px;
 }
 
-.date {
-  width: 70px;
-  min-width: 70px;
+.datetime {
+  color: grey;
+}
+
+.scenarios-image {
+  padding-top: 10px;
+  margin-top: 7px;
+  height: 100%;
+  width: 80% !important;
+}
+
+.github-image {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.github-link {
+  color: #17a2b8;
+  padding: 12px;
+  text-decoration: none; /* no underline */
+}
+
+.github-link:hover {
+  color: #17a2b8;
+  text-decoration: none;
+  opacity: 0.8;
 }
