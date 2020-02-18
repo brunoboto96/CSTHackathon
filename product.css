@@ -241,3 +241,8 @@
   text-decoration: none;
   opacity: 0.8;
 }
+
+.hashtag {
+  color: #17a2b8;
+  font-weight: 500;
+}
