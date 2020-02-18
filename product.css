@@ -92,7 +92,7 @@
  */
 
 .card-container {
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.18), 0 10px 10px rgba(0, 0, 0, 0.15);
   position: relative;
   padding-bottom: 150px;
   margin-bottom: 20px;
@@ -245,4 +245,29 @@
 .hashtag {
   color: #17a2b8;
   font-weight: 500;
+}
+
+.prizes {
+  position: relative;
+  width: 100%;
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prize {
+  color: white;
+  background-color: #17a2b8;
+  margin-bottom: 20px;
+  padding: 16px;
+  font-weight: 700;
+  width: 250px;
+  border-radius: 40px;
+}
+
+.prize-image {
+  padding-top: 16px !important;
+  height: 90%;
+  width: 79% !important;
 }
